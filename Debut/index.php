@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>titre</title>
+<title>titre test</title>
 </head>
 
 <body>
